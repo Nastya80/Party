@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: MediumSpringGreen;
+}
+
+header p{
+    color: brown;
+}
+
+header a{
+    border-radius: 17px;
+    text-decoration: chocolate;
+}
+
+h1{
+    font-family: i;
+    color: coral;
+}
+
+footer{
+    border:solid 11px Teal	;
+}
+
+nav{
+  border: solid 2px Silver;
+  text-align: centre;
+}
+
+nav a{
+    padding: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: silver;
+}
+
+.al{
+   background-color: springgreen;
+   border-radius: 15px;
+}
+
+.nop{
+    color: Fuchsia;
+    font-size: 35px;
+}
