@@ -27,6 +27,7 @@ footer{
 nav{
   border: solid 2px Silver;
   text-align: centre;
+  margin: 5px;
 }
 
 nav a{
@@ -34,7 +35,6 @@ nav a{
     text-align: center;
     text-decoration: none;
     color: silver;
-    margin: 15px;
 }
 
 .al{
@@ -48,5 +48,5 @@ nav a{
 }
 
 header img{
-    padding:10px;
+    padding: 10px;
 }
