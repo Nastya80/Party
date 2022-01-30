@@ -46,3 +46,7 @@ nav a{
     color: Fuchsia;
     font-size: 35px;
 }
+
+header img{
+    padding:10px;
+}
